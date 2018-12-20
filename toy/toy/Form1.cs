@@ -29,6 +29,7 @@ namespace toy
                 MessageBox.Show(i.ToString());
                 MessageBox.Show("Test");
                 MessageBox.Show("Test");
+                MessageBox.Show("3번째 - kob에서 푸시해보자");
             }
         }
     }
