@@ -28,6 +28,7 @@ namespace toy
             {
                 MessageBox.Show(i.ToString());
                 MessageBox.Show("Test");
+                MessageBox.Show("Test");
             }
         }
     }
