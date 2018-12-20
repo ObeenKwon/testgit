@@ -27,6 +27,7 @@ namespace toy
             for (int i = 0; i < 100; i++)
             {
                 MessageBox.Show(i.ToString());
+                MessageBox.Show("Test");
             }
         }
     }
